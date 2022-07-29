@@ -26,6 +26,14 @@
     width: 100%;
 }
 
-.number {
+.last {
+    height: 125vh;
+}
+
+.news-area {
+    height: 420vh;
+}
+
+.website-area {
     width: 100%;
 }
